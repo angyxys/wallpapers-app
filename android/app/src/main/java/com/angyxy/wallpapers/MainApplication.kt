@@ -1,4 +1,4 @@
-package com.wallpapersapp
+package com.angyxy.wallpapers
 
 import android.app.Application
 import android.content.res.Configuration
